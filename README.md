@@ -43,8 +43,8 @@ para persistir os dados basta clicar no botão salvar abaixo deste formulário.
 
 ## Considerações finais.
 
-Não consegui implementar testes unitários automatizados, até tenho uma boa ideia de qual suite de testes utilizar, como tipos inválidos de dados inseridos (numeros em nomes por exemplo), valores fora do range de salários ou CPF (numeros negativos por exemplo), valores de ano e mês fora do range. peço desculpas por isso mas realmente não sei como fazê-lo, talvez com um prazo um pouco maior teria avançado um pouco.
-Não fiz a Documentação via Swagger, este é outro item o qual eu nunca lidei e não tenho ideia de como fazê-lo.
-A aplicação contem varios bugs com relação a validação dos dados inseridos, gastei muito mais tempo que eu gostaria montando o client, cheguei a iniciar com react e depois abortei, passando para angular. nisso gastei muito tempo o que impediu de deixar o client com um acabamento mais refinado.
+- Não consegui implementar testes unitários automatizados, até tenho uma boa ideia de qual suite de testes utilizar, como tipos inválidos de dados inseridos (numeros em nomes por exemplo), valores fora do range de salários ou CPF (numeros negativos por exemplo), valores de ano e mês fora do range. peço desculpas por isso mas realmente não sei como fazê-lo, talvez com um prazo um pouco maior teria avançado um pouco.
+- Não fiz a Documentação via Swagger, este é outro item o qual eu nunca lidei e não tenho ideia de como fazê-lo.
+- A aplicação contem varios bugs com relação a validação dos dados inseridos, gastei muito mais tempo que eu gostaria montando o client, cheguei a iniciar com react e depois abortei, passando para angular. nisso gastei muito tempo o que impediu de deixar o client com um acabamento mais refinado.
 
-De qualquer forma e com qualquer resultado, gostaria de agradecer pela oportunidade. []'s
+## De qualquer forma e com qualquer resultado, gostaria de agradecer pela oportunidade . []'s
